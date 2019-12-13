@@ -6,7 +6,7 @@ Transferring End-to-End Visuomotor Control fromSimulation to Real World for a Mu
 ## 3D generalization of the task from paper "Transferring End-to-End Visuomotor Control fromSimulation
 to Real World for a Multi-Stage Task" for arbitrary initial position of the cube in space
 
-![ilustration_image](https://github.com/scholeer/pick_and_place_3D.gito/ilustration_image.png)
+![ilustration_image](https://github.com/scholeer/pick_and_place_3D.git/ilustration_image.png)
 
 ### cnnlstm_3D.ttt
 V-REP scene for pick (cube) and place (to the box) task for arbitrary initial position of the cube in space
