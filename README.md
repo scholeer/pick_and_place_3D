@@ -3,8 +3,8 @@ Transferring End-to-End Visuomotor Control fromSimulation to Real World for a Mu
 
 
 
-## 3D generalization of the task from paper "Transferring End-to-End Visuomotor Control fromSimulation
-to Real World for a Multi-Stage Task" for arbitrary initial position of the cube in space
+## 3D generalization of the task from paper `Transferring End-to-End Visuomotor Control fromSimulation \
+## to Real World for a Multi-Stage Task` for arbitrary initial position of the cube in space
 
 ![ilustration_image2](./ilustration_image.png)
 
